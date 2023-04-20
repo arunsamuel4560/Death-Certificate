@@ -1,0 +1,11 @@
+.verifier-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.login-form {
+  border: 1px solid black;
+  padding: 20px;
+}
